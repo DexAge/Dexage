@@ -3,9 +3,9 @@ User-Centric Decentralized Exchange, P2P Escrow Trading and P2P Lending Marketpl
 
 ## Table of Content
 
-* [White Paper](#White Paper)
-* [One Pager](#One Pager)
-* [Privacy Policy](#Privacy Policy)
+* [White Paper](#Whitepaper)
+* [One Pager](#Onepager)
+* [Privacy Policy](#privacypolicy)
 
 ### White Paper
 
