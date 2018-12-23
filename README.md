@@ -3,10 +3,11 @@ User-Centric Decentralized Exchange, P2P Escrow Trading and P2P Lending Marketpl
 
 ## Table of Content
 
-* [White Paper](#Whitepaper)
-* [One Pager](#Onepager)
-* [Privacy Policy](#privacypolicy)
-* [Smart Contract](#smartcontract)
+* [White Paper](#White-paper)
+* [One Pager](#One-pager)
+* [Privacy Policy](#privacy-policy)
+* [Smart Contract](#smart-contract)
+* [Smart Contract Audit Report](#smart-contract-audit-report)
 
 ### White Paper
 
@@ -26,3 +27,8 @@ View Document [here](https://github.com/DexAge/Dexage/tree/master/privacy-policy
 ### Smart Contract
 
 Find Contract [here](https://etherscan.io/token/0xb22be3c9fef880ee58155cd402b67ce6d7b45504).
+
+
+### Smart Contract Audit Report
+
+Find Contract [here](https://github.com/DexAge/Dexage/tree/master/smart-contract-audit-report.pdf).
